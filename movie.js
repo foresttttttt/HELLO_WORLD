@@ -1,6 +1,5 @@
-function a() {}
-	console.log(19 == "19");
-	console.log(19 === "19");
-};
 
-a();
+console.log(19 == "19");
+console.log(19 === "19");
+console.log(19);
+
